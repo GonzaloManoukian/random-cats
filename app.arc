@@ -5,8 +5,8 @@ random-cats-448b
 runtime nodejs18.x
 # concurrency 1
 # memory 1152
-# profile GonzaloManoukian
-# region us-east-2
+# profile default
+# region us-west-1
 # timeout 30
 
 @http
@@ -26,7 +26,3 @@ user
 
 password
   pk *String # userId
-
-note
-  pk *String  # userId
-  sk **String # noteId

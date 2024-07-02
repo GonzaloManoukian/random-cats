@@ -5,8 +5,8 @@ import { getRandomCatImage } from "~/lib/catApi";
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "New Remix App" },
-    { name: "description", content: "Welcome to Remix!" },
+    { title: "Random Cats" },
+    { name: "description", content: "Random cats from thecatapi.com" },
   ];
 };
 
