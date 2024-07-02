@@ -1,5 +1,5 @@
 @app
-grunge-stack-template
+random-cats-448b
 
 @aws
 runtime nodejs18.x
